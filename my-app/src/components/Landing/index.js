@@ -10,14 +10,14 @@ import Header from "../Header";
 import Footer from "../Footer";
 
 const Landing = () => {
-  document.title = "Fire Optics";
+  document.title = "CareerGPT";
   return (
     <Wrapper>
       <Header />
       <Content>
         <Section
-          title="Fire Optics"
-          desc="A hands free, visual system to easily identify signs of life for firefighters"
+          title="CareerGPT"
+          desc="Provides tailored advice and resources to help users navigate their career paths with confidence and clarity"
           backgroundImg="landing-full.jpg"
           arrow="true"
           battery="6"
