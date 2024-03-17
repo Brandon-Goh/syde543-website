@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/syde543-website/static/css/main.94adf88d.css",
-    "main.js": "/syde543-website/static/js/main.437fd2d0.js",
+    "main.js": "/syde543-website/static/js/main.6f3c73d0.js",
     "static/js/787.d4aba7ab.chunk.js": "/syde543-website/static/js/787.d4aba7ab.chunk.js",
     "index.html": "/syde543-website/index.html",
     "main.94adf88d.css.map": "/syde543-website/static/css/main.94adf88d.css.map",
-    "main.437fd2d0.js.map": "/syde543-website/static/js/main.437fd2d0.js.map",
+    "main.6f3c73d0.js.map": "/syde543-website/static/js/main.6f3c73d0.js.map",
     "787.d4aba7ab.chunk.js.map": "/syde543-website/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94adf88d.css",
-    "static/js/main.437fd2d0.js"
+    "static/js/main.6f3c73d0.js"
   ]
 }
